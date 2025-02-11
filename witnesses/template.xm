@@ -4,9 +4,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirukkuṟalum Nalvarnamalaium</title>
+            <title>Tirukkuṟaḷ</title>
             
-         <editor><persName>Anna Poorani V</persName><orgName>Pondicherry University, Puducherry.</orgName></editor></titleStmt>
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>Tamilex</publisher>
             <date>2025</date>
@@ -15,22 +15,22 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>French Institute of Pondicherry, Puducherry.</orgName>
+                     <orgName>IFP</orgName>
                   </repository>
-                  <idno type="shelfmark">RE31431a</idno>
+                  <idno type="shelfmark">RE47765</idno>
                   <idno type="alternate"/>
                </msIdentifier>
-               <msContents class="#MTM">
-                  <summary>A Palm Leaf Manuscript of Tirukural and Nalvarnamanimalai.</summary>
+               <msContents class="#STM">
+                  <summary>A manuscript</summary>
                   
-               <msItem synch="#I2e" xml:id="I2e_Annapoorani" defective="false"><title>Tirukuralum Nalvarnanmanimalium</title></msItem><msItem defective="false"><title>Tirukural</title></msItem></msContents>
+               <msItem xml:id="I4m" defective="false"><title xml:lang="ta">Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
                   
                   
                   
-               <objectDesc form="pothi" rend="inscription">
+               <objectDesc form="pothi" rend="manuscript">
                      <supportDesc material="paper">
                         
                         
@@ -40,7 +40,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="25"/>
+                           <measure unit="folio" quantity="60"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -53,11 +53,11 @@
                               
                               
                            </dimensions>
-                        </extent><collation><desc xml:id="I2e"/></collation></supportDesc>
+                        </extent></supportDesc>
                      <layoutDesc>
                         
                      </layoutDesc>
-                  </objectDesc><handDesc><handNote synch="#I2e" script="tamil" scriptRef="#tamilPreReform" medium="incised"/></handDesc><typeDesc><typeNote synch="#I2e" script="tamil" scriptRef="#tamilPreReform" medium="black"/></typeDesc><additions>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone" medium="incised"/></handDesc><additions>
                   </additions><bindingDesc>
                      <binding>
                         
@@ -82,17 +82,20 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>Restored pullis</p></encodingDesc>
+      <encodingDesc><p>Madras Lexicon transliteration</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/3/re-31431/manifest.json"/></facsimile>
-<text synch="#I2e" corresp="#I2e_Annapoorani"><body xml:lang="ta-Taml">
-<lg xml:id="TK1">
-<l><pb n="1r" facs="4"/>அகர முதல வெழுத்தெல்லாமாதி</l>
-<l>பகவன் முதற்றேயுலகு</l>
-</lg>
+   <graphic url="https://iiif.archive.org/iiif/3/re-47765/manifest.json"/></facsimile>
+<text corresp="#I4m" xml:lang="ta"><body>
+  <lg xml:id="TK1">
+  </lg>
   <lg xml:id="TK2">
-    <l><lb n="2"/>கற்றதனாலாய்  பயனென்கொல்வா லறிவன் நற்றாடொழஅ ரெனின்</l>
-    </lg>
-   </body></text></TEI>
+  </lg>
+  <lg xml:id="TK3">
+  </lg>
+  <lg xml:id="TK4">
+  </lg>
+  <lg xml:id="TK5">
+  </lg>
+</body></text></TEI>
