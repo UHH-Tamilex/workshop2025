@@ -11,15 +11,89 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p/>
+            <summary>
+              <p />
             </summary>
           </msContents>    
         </msDesc>
+        <listWit>
+        <witness xml:id="Ed" source="TK1.xml">
+            <abbr type="siglum">Ed</abbr>
+            <expan>
+              <title xml:lang="ta">TK "edition"</title>
+            </expan>
+          </witness>
+          <witness xml:id="E1e" source="EAP1217_1_223.xml">
+            <abbr type="siglum">E1e</abbr>
+            <expan>திருக்குறள் உரையுடன்</expan>
+          </witness>
+          <witness xml:id="E1e_Ambala" source="EAP1217_1_223_Ambala.xml">
+            <abbr type="siglum">E1e_Ambala</abbr>
+            <expan>திருக்குறள் உரையுடன்</expan>
+          </witness>
+          <witness xml:id="E1e_Prathibaa" source="EAP1217_1_223_Prathibaa.xml">
+            <abbr type="siglum">E1e_Prathibaa</abbr>
+            <expan>திருக்குறள் உரையுடன்</expan>
+          </witness>
+          <witness xml:id="E7c" source="EAP1217_1_1756.xml">
+            <abbr type="siglum">E7c</abbr>
+            <expan>Tirukkuṟaḷ mūlamum uraiyum</expan>
+          </witness>
+          <witness xml:id="E3m" source="EAP1217_1_2677.xml">
+            <abbr type="siglum">E3m</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+          <witness xml:id="B1e" source="Indien_0057.xml">
+            <abbr type="siglum">B1e</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+          <witness xml:id="T3" source="Indien_0507.xml">
+            <abbr type="siglum">T3</abbr>
+            <expan><title xml:lang="ta">Tirukkuṟaḷ</title>, <term xml:lang="en">followed by</term> <title
+                xml:lang="ta">Tiruvaḷḷuvamālai</title></expan>
+            <listWit>
+              <witness xml:id="T3ac" n="ac">
+                <abbr type="siglum">T3ac</abbr>
+                <expan><title xml:lang="ta">Tirukkuṟaḷ</title>, <term xml:lang="en">followed by</term> <title
+                    xml:lang="ta">Tiruvaḷḷuvamālai</title> [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="T3pc" n="pc">
+                <abbr type="siglum">T3pc</abbr>
+                <expan><title xml:lang="ta">Tirukkuṟaḷ</title>, <term xml:lang="en">followed by</term> <title
+                    xml:lang="ta">Tiruvaḷḷuvamālai</title> [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="I6m" source="RE04226.xml">
+            <abbr type="siglum">I6m</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+          <witness xml:id="I1e" source="RE25357.xml">
+            <abbr type="siglum">I1e</abbr>
+            <expan>Tirukkuṟal</expan>
+          </witness>
+          <witness xml:id="I2e_Annapoorani" source="RE31431a_Annapoorani.xml">
+            <abbr type="siglum">I2e_Annapoorani</abbr>
+            <expan>Tirukkuṟalum Nalvarnamalaium</expan>
+          </witness>
+          <witness xml:id="I2e_Kreutzer" source="RE31431a_Kreutzer.xml">
+            <abbr type="siglum">I2e_Kreutzer</abbr>
+            <expan>திருக்குறல்</expan>
+          </witness>
+          <witness xml:id="I2e_Ramprashanth" source="RE31431a_Ramprashanth.xml">
+            <abbr type="siglum">I2e_Ramprashanth</abbr>
+            <expan>திருக்குறளும் நாள்வர் நான்மணி மாலையும்</expan>
+          </witness>
+          <witness xml:id="I3m" source="RE53105.xml">
+            <abbr type="siglum">I3m</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>
   </teiHeader>
-  <text xml:lang="ta" type="edition">
+  <text xml:lang="ta" type="edition" corresp="#Ed">
     <body>
         <div rend="parallel">
             <lg xml:id="TK1">
