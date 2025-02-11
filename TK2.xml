@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,6 +15,76 @@
             </summary>
           </msContents>    
         </msDesc>
+<listWit>
+        <witness xml:id="Ed" source="TK2.xml">
+            <abbr type="siglum">Ed</abbr>
+            <expan>
+              <title xml:lang="ta">TK "edition"</title>
+            </expan>
+          </witness>
+          <witness xml:id="E1e" source="witnesses/EAP1217_1_223.xml">
+            <abbr type="siglum">E1e</abbr>
+            <expan>திருக்குறள் உரையுடன்</expan>
+          </witness>
+          <witness xml:id="E1e_Ambala" source="witnesses/EAP1217_1_223_Ambala.xml">
+            <abbr type="siglum">E1e_Ambala</abbr>
+            <expan>திருக்குறள் உரையுடன்</expan>
+          </witness>
+          <witness xml:id="E1e_Prathibaa" source="witnesses/EAP1217_1_223_Prathibaa.xml">
+            <abbr type="siglum">E1e_Prathibaa</abbr>
+            <expan>திருக்குறள் உரையுடன்</expan>
+          </witness>
+          <witness xml:id="E7c" source="witnesses/EAP1217_1_1756.xml">
+            <abbr type="siglum">E7c</abbr>
+            <expan>Tirukkuṟaḷ mūlamum uraiyum</expan>
+          </witness>
+          <witness xml:id="E3m" source="witnesses/EAP1217_1_2677.xml">
+            <abbr type="siglum">E3m</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+          <witness xml:id="B1e" source="witnesses/Indien_0057.xml">
+            <abbr type="siglum">B1e</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+          <witness xml:id="T3" source="witnesses/Indien_0507.xml">
+            <abbr type="siglum">T3</abbr>
+            <expan><title xml:lang="ta">Tirukkuṟaḷ</title>, <term xml:lang="en">followed by</term> <title xml:lang="ta">Tiruvaḷḷuvamālai</title></expan>
+            <listWit>
+              <witness xml:id="T3ac" n="ac">
+                <abbr type="siglum">T3<hi rend="subscript">ac</hi></abbr>
+                <expan><title xml:lang="ta">Tirukkuṟaḷ</title>, <term xml:lang="en">followed by</term> <title xml:lang="ta">Tiruvaḷḷuvamālai</title> [ante correctionem]</expan>
+              </witness>
+              <witness xml:id="T3pc" n="pc">
+                <abbr type="siglum">T3<hi rend="subscript">pc</hi></abbr>
+                <expan><title xml:lang="ta">Tirukkuṟaḷ</title>, <term xml:lang="en">followed by</term> <title xml:lang="ta">Tiruvaḷḷuvamālai</title> [post correctionem]</expan>
+              </witness>
+            </listWit>
+          </witness>
+          <witness xml:id="I6m" source="witnesses/RE04226.xml">
+            <abbr type="siglum">I6m</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+          <witness xml:id="I1e" source="witnesses/RE25357.xml">
+            <abbr type="siglum">I1e</abbr>
+            <expan>Tirukkuṟal</expan>
+          </witness>
+          <witness xml:id="I2e_Annapoorani" source="witnesses/RE31431a_Annapoorani.xml">
+            <abbr type="siglum">I2e_Annapoorani</abbr>
+            <expan>Tirukkuṟalum Nalvarnamalaium</expan>
+          </witness>
+          <witness xml:id="I2e_Kreutzer" source="witnesses/RE31431a_Kreutzer.xml">
+            <abbr type="siglum">I2e_Kreutzer</abbr>
+            <expan>திருக்குறல்</expan>
+          </witness>
+          <witness xml:id="I2e_Ramprashanth" source="witnesses/RE31431a_Ramprashanth.xml">
+            <abbr type="siglum">I2e_Ramprashanth</abbr>
+            <expan>திருக்குறளும் நாள்வர் நான்மணி மாலையும்</expan>
+          </witness>
+          <witness xml:id="I3m" source="witnesses/RE53105.xml">
+            <abbr type="siglum">I3m</abbr>
+            <expan>Tirukkuṟaḷ</expan>
+          </witness>
+        <witness xml:id="E1e_A" source="witnesses/EAP1217_1_223_Ambala.xml"><abbr type="siglum">E1e_A</abbr><expan>திருக்குறள் உரையுடன்</expan></witness><witness xml:id="E1e_P" source="witnesses/EAP1217_1_223_Prathibaa.xml"><abbr type="siglum">E1e_P</abbr><expan>திருக்குறள் உரையுடன்</expan></witness><witness xml:id="E5m" source="witnesses/EAP1217_1_224.xml"><abbr type="siglum">E5m</abbr><expan>Tirukkuṟaḷ</expan><listWit><witness xml:id="E5mac" n="ac"><abbr type="siglum">E5m<hi rend="subscript">ac</hi></abbr><expan>Tirukkuṟaḷ [ante correctionem]</expan></witness><witness xml:id="E5mpc" n="pc"><abbr type="siglum">E5m<hi rend="subscript">pc</hi></abbr><expan>Tirukkuṟaḷ [post correctionem]</expan></witness></listWit></witness><witness xml:id="E6m" source="witnesses/EAP1217_1_960.xml"><abbr type="siglum">E6m</abbr><expan>Tirukkuṟaḷ</expan></witness><witness xml:id="E4m" source="witnesses/EAP1217_1_1202.xml"><abbr type="siglum">E4m</abbr><expan>Tirukkuṟaḷ</expan></witness><witness xml:id="B2e" source="witnesses/Indien_0058.xml"><abbr type="siglum">B2e</abbr><expan>Ariel Papers: <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title></expan><listWit><witness xml:id="B2eac" n="ac"><abbr type="siglum">B2e<hi rend="subscript">ac</hi></abbr><expan>Ariel Papers: <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title> [ante correctionem]</expan></witness><witness xml:id="B2epc" n="pc"><abbr type="siglum">B2e<hi rend="subscript">pc</hi></abbr><expan>Ariel Papers: <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title> [post correctionem]</expan></witness></listWit></witness><witness xml:id="B3e" source="witnesses/Indien_0507.xml"><abbr type="siglum">B3e</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title>, <term xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">followed by</term> <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tiruvaḷḷuvamālai</title></expan><listWit><witness xml:id="B3eac" n="ac"><abbr type="siglum">B3e<hi rend="subscript">ac</hi></abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title>, <term xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">followed by</term> <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tiruvaḷḷuvamālai</title> [ante correctionem]</expan></witness><witness xml:id="B3epc" n="pc"><abbr type="siglum">B3e<hi rend="subscript">pc</hi></abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title>, <term xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">followed by</term> <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tiruvaḷḷuvamālai</title> [post correctionem]</expan></witness></listWit></witness><witness xml:id="T1" source="witnesses/Indien_0534a.xml"><abbr type="siglum">T1</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title> 1-65, 67-79</expan></witness><witness xml:id="T2" source="witnesses/Indien_0534a.xml"><abbr type="siglum">T2</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title> 1-65, 67-79</expan></witness><witness xml:id="B4m" source="witnesses/Indien_0534a.xml"><abbr type="siglum">B4m</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title> 1-65, 67-79</expan></witness><witness xml:id="I5m" source="witnesses/RE15539.xml"><abbr type="siglum">I5m</abbr><expan>Tirukkuṟaḷ</expan><listWit><witness xml:id="I5mac" n="ac"><abbr type="siglum">I5m<hi rend="subscript">ac</hi></abbr><expan>Tirukkuṟaḷ [ante correctionem]</expan></witness><witness xml:id="I5mpc" n="pc"><abbr type="siglum">I5m<hi rend="subscript">pc</hi></abbr><expan>Tirukkuṟaḷ [post correctionem]</expan></witness></listWit></witness><witness xml:id="I2e_A" source="witnesses/RE31431a_Annapoorani.xml"><abbr type="siglum">I2e_A</abbr><expan>Tirukkuṟalum Nalvarnamalaium</expan></witness><witness xml:id="I2e_K" source="witnesses/RE31431a_Kreuzer.xml"><abbr type="siglum">I2e_K</abbr><expan>திருக்குறல்</expan></witness><witness xml:id="I2e_R" source="witnesses/RE31431a_Ramprashanth.xml"><abbr type="siglum">I2e_R</abbr><expan>திருக்குறளும் நாள்வர் நான்மணி மாலையும்</expan></witness><witness xml:id="I4m" source="witnesses/RE47765.xml"><abbr type="siglum">I4m</abbr><expan>Tirukkuṟaḷ</expan></witness><witness xml:id="Rm" source="witnesses/Rim161.xml"><abbr type="siglum">Rm</abbr><expan>Collection: <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ &amp; Nālaṭiyār</title></expan></witness><witness xml:id="R2" source="witnesses/Rim161.xml"><abbr type="siglum">R2</abbr><expan>Collection: <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ &amp; Nālaṭiyār</title></expan><listWit><witness xml:id="R2ac" n="ac"><abbr type="siglum">R2<hi rend="subscript">ac</hi></abbr><expan>Collection: <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ &amp; Nālaṭiyār</title> [ante correctionem]</expan></witness><witness xml:id="R2pc" n="pc"><abbr type="siglum">R2<hi rend="subscript">pc</hi></abbr><expan>Collection: <title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ &amp; Nālaṭiyār</title> [post correctionem]</expan></witness></listWit></witness><witness xml:id="R1" source="witnesses/SmithLesouef_265.xml"><abbr type="siglum">R1</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title></expan></witness><witness xml:id="S2" source="witnesses/SmithLesouef_265.xml"><abbr type="siglum">S2</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title></expan><listWit><witness xml:id="S2ac" n="ac"><abbr type="siglum">S2<hi rend="subscript">ac</hi></abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title> [ante correctionem]</expan></witness><witness xml:id="S2pc" n="pc"><abbr type="siglum">S2<hi rend="subscript">pc</hi></abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title> [post correctionem]</expan></witness></listWit></witness><witness xml:id="Sm" source="witnesses/SmithLesouef_265.xml"><abbr type="siglum">Sm</abbr><expan><title xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ta">Tirukkuṟaḷ</title></expan></witness></listWit>
       </sourceDesc>
     </fileDesc>
     <revisionDesc><change/></revisionDesc>

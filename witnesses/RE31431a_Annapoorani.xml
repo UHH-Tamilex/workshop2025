@@ -23,7 +23,7 @@
                <msContents class="#MTM">
                   <summary>A Palm Leaf Manuscript of Tirukural and Nalvarnamanimalai.</summary>
                   
-               <msItem synch="#I2e" xml:id="I2e_Annapoorani" defective="false"><title>Tirukuralum Nalvarnanmanimalium</title></msItem><msItem defective="false"><title>Tirukural</title></msItem></msContents>
+               <msItem synch="#I2e" xml:id="I2e_A" defective="false"><title>Tirukuralum Nalvarnanmanimalium</title></msItem><msItem defective="false"><title>Tirukural</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -87,7 +87,7 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/3/re-31431/manifest.json"/></facsimile>
-<text synch="#I2e" corresp="#I2e_Annapoorani"><body xml:lang="ta-Taml">
+<text synch="#I2e" corresp="#I2e_A"><body xml:lang="ta-Taml">
 <lg xml:id="TK1">
 <l><pb n="1r" facs="4"/>அகர முதல வெழுத்தெல்லாமாதி</l>
 <l>பகவன் முதற்றேயுலகு</l>

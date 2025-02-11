@@ -23,7 +23,7 @@
                <msContents class="#STM">
                   <summary>In this manuscript one can notice elements of the author's handwriting, letters of the old spelling, the beginning and end of the manuscript are better preserved than the middle, some sheets are eaten by insects to the point of poor readability.</summary>
                   
-               <msItem xml:id="I2e_Kreutzer" defective="false"><title xml:lang="ta"> Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="I2e_K" defective="false"><title xml:lang="ta"> Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -87,7 +87,7 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/3/re-31431/manifest.json"/></facsimile>
-<text corresp="#I2e_Kreutzer" xml:lang="ta"><body>
+<text corresp="#I2e_K" xml:lang="ta"><body>
 <lg xml:id="TK1">
 <l><pb n="1r" facs="3"/><lb n="1"/>akara mutala veḻuttellā māti</l>
 <l>pakavaṉ mutaṟṟē yulaku</l>

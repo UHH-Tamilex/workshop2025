@@ -23,7 +23,7 @@
                <msContents class="#MTM">
                   <summary>A palm leaf manuscript of Tirukkural. Sufficiently well preserved.</summary>
                   
-               <msItem xml:id="I2e_Ramprashanth" defective="false" class="#kilkkanakku"><title> திருக்குறள்</title></msItem></msContents>
+               <msItem xml:id="I2e_R" defective="false" class="#kilkkanakku"><title> திருக்குறள்</title></msItem></msContents>
                <physDesc>
                   
                   
@@ -87,7 +87,7 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://iiif.archive.org/iiif/3/re-31431/manifest.json"/></facsimile>
-<text corresp="#I2e_Ramprashanth"><body xml:lang="ta-Taml">
+<text corresp="#I2e_R"><body xml:lang="ta-Taml">
 <lg xml:id="TK1">
 <l><pb n="1r" facs="2"/>அகர முதல வெழுத்தெல்லா மாதி</l>
 <l>பகவன் முதற்றே யுலகு</l>

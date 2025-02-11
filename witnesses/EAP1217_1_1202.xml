@@ -23,7 +23,7 @@
                <msContents class="#STM">
                   <summary>A manuscript</summary>
                   
-               <msItem xml:id="I4m" defective="false"><title xml:lang="ta">Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="E4m" defective="false"><title xml:lang="ta">Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -87,7 +87,7 @@
    <revisionDesc/></teiHeader>
    <facsimile>
    <graphic url="https://eap.bl.uk/archive-file/EAP1217-1-2677/manifest"/></facsimile>
-<text corresp="#I4m" xml:lang="ta"><body>
+<text corresp="#E4m" xml:lang="ta"><body>
   <lg xml:id="TK1">
     <l><pb n="1r" facs="4"/><gap reason="lost" quantity="9" unit="character"/>tallā māti</l>
     <l>pakavaṉ mutaṟṟē yulaku</l>
@@ -97,10 +97,15 @@
     <l>ṉaṟṟā ṭoḻāa reṉiṉ</l>
   </lg>
   <lg xml:id="TK3">
-    <l></l>
+    <l><unclear>malarmicai yēki</unclear><sic>ṉa</sic>ṉ māṇaṭi cērntār</l>
+    <l>nilamicai nīṭuvāḻ vār</l>
   </lg>
   <lg xml:id="TK4">
+    <l>vēṇṭutal vēṇṭāmai yilāṉaṭi cērnta<sic>ri</sic>k</l>
+    <l>kiyāṇṭu miṭumpai yila</l>
   </lg>
   <lg xml:id="TK5">
+    <l>iruḷcē riruviṉaiyuñ cērā viṟaivaṉ</l>
+    <l>poruḷcēr puka<unclear>ḻ</unclear>purintār māṭṭu</l>
   </lg>
 </body></text></TEI>

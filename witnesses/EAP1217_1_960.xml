@@ -15,15 +15,15 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>IFP</orgName>
+                     <orgName>Tamil University</orgName>
                   </repository>
-                  <idno type="shelfmark">RE47765</idno>
+                  <idno type="shelfmark">EAP1217/1/960</idno>
                   <idno type="alternate"/>
                </msIdentifier>
                <msContents class="#STM">
                   <summary>A manuscript</summary>
                   
-               <msItem xml:id="I4m" defective="false"><title xml:lang="ta">Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
+               <msItem xml:id="E6m" defective="false"><title xml:lang="ta">Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -86,16 +86,26 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/3/re-47765/manifest.json"/></facsimile>
-<text corresp="#I4m" xml:lang="ta"><body>
+   <graphic url="https://eap.bl.uk/archive-file/EAP1217-1-960/manifest"/></facsimile>
+<text corresp="#E6m" xml:lang="ta"><body>
   <lg xml:id="TK1">
+    <l><pb n="1r" facs="6"/>akara mutala veḻuttellā māti</l>
+    <l>pakavaṉ mutaṟṟē yulaku</l>
   </lg>
   <lg xml:id="TK2">
+    <l>kaṟṟataṉā lāya payaṉeṉkol vālaṟiva</l>
+    <l>ṉaṟṟā ṭoḻāa reṉiṉ</l>
   </lg>
   <lg xml:id="TK3">
+    <l>malarmicai yēkiṉaṉ māṇaṭi cērntār</l>
+    <l>nilamicai nīṭuvāḻ vār</l>
   </lg>
   <lg xml:id="TK4">
+    <l>vēṇṭutal vēṇṭāmai yilāṉaṭi cērntark</l>
+    <l>kiyāṇṭu miṭumpai yila</l>
   </lg>
   <lg xml:id="TK5">
+    <l>iruḷcē riruviṉaiyuñ cērā viṟaivaṉ</l>
+    <l>poruḷcēr pukaḻpurintār māṭṭu</l>
   </lg>
 </body></text></TEI>
