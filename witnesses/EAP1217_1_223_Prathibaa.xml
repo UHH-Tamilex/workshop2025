@@ -1,0 +1,105 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> திருக்குறள் உரையுடன்  </title>
+            
+         <editor><persName>Prathibaa J</persName><orgName>Pondicherry university</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">EAP1217/1/223</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary> Thirukkural Uraiyudan refers to a Tamil text where the classic philosophical work "Thirukkural" is presented with detailed commentary and explanation, essentially providing a deeper understanding of the verses by elucidating their meaning and context, often exploring their ethical and moral implications in a modern light; "Uraiyudan" literally translates to "with explanation" in Tamil, signifying the commentary aspect of the text.   </summary>
+                  
+               <msItem xml:id="E1e_Prathibaa" defective="false" class="#illakkanam"><title xml:lang="ta-Taml"> திருக்குறள் உரையுடன்  </title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi">
+                     <supportDesc material="palm-leaf palmyra">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="143"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="minor" script="tamil" scriptRef="#tamilPulliNone #tamilPreReform"/></handDesc><typeDesc><typeNote script="tamil" scriptRef="#tamilPreReform"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole" quantity="2"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>restore pulli and long vowels( uyir)</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://eap.bl.uk/archive-file/EAP1217-1-2677/manifest"/></facsimile>
+<text corresp="#E1e_Prathibaa" xml:lang="ta"><body>
+<lg xml:id="TK1">
+  <l><pb n="1r" facs="4"/>akara mutala eḻuttellām āti</l> 
+  <l> pakavaṉ mutaṟṟē yulaku</l>
+ </lg>
+  
+
+<lg xml:id="TK2">
+<l>kaṟṟataṉāl āya payaṉeṉkol vālaṟivaṉ</l>
+  <l>naṟṟāl toḻāar enin</l>
+  </lg>
+
+ 
+  </body>
+  
+
+</text></TEI>
