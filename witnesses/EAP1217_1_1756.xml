@@ -1,0 +1,109 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            
+            
+         <title>Tirukkuṟaḷ mūlamum uraiyum </title><editor><persName>Maanasa Visweswaran</persName><orgName>Hamburg Universität</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Tamilex</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     
+                  </repository>
+                  <idno type="shelfmark">EAP1217/1/1756</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  
+                  
+               <summary>A palm-leaf manuscript of the Tirukkuṟaḷ: With 37 chapters, 370 stanzas in arattuppāl with Parimēlaḻakar's commentary. </summary><msItem xml:id="E7c" defective="true" class="#kilkkanakku"><title xml:lang="ta">Tirukkuṟaḷ aṟattuppāl </title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="22"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliNone #tamilPreReform" medium="black incised"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Restore puḷḷi and long vowels. </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://eap.bl.uk/archive-file/EAP1217-1-1756/manifest"/></facsimile>
+<text corresp="#E7c" xml:lang="ta"><body xml:lang="ta-Taml">
+<lg xml:id="TK1">
+<l><pb n="1v" facs="4"/>அகர முதல வெழுத்தெல்லா மாதி</l>
+<l>பகவன் முதற்றே யுலகு</l> 
+</lg> 
+  <lg xml:id="TK2">
+  <l><pb n="2r" facs="6"/>கற்றதனா லாய பயனென்கொல் வாலறிவ</l> 
+<l>நற்றா டொழாஅ ரெனின்</l> 
+</lg> 
+    <lg xml:id="TK3">
+  <l><pb n="2r" facs="6"/>மலர்மிசை யேகினான் மாணடி சேர்ந்தார்</l>  
+<l>நிலமிசை நீடுவாழ் வார்</l> 
+</lg> 
+      <lg xml:id="TK4">
+  <l><pb n="2v" facs="7"/> வேண்டுதல் வேண்டாமை யிலானடி சேர்ந்தார்க்</l> 
+<l>கியாண்டு மிடும்பை யில</l>   
+</lg>   
+        <lg xml:id="TK5">
+    <l><pb n="2v" facs="7"/>இருள்சே ரிருவினையுஞ் சேரா விறைவன்</l> 
+   <l>பொருள்சேர் புகழ்புரிந்தார் மாட்டு</l>    
+</lg>   
+  </body></text></TEI>

@@ -1,0 +1,110 @@
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tirukkuṟaḷ</title>
+            
+         <editor><persName>Priya Barchi</persName><orgName>New York University</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Tamilex</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">Indien 57</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>A paper manuscript, written in "missionary" script, with each verse followed by a Latin translation. </summary>
+                  
+               <msItem xml:id="B1e" defective="false" class="#kilkkanakku"><title xml:lang="ta">Tirukkuṟaḷ</title><textLang mainLang="tam" otherLangs="lat"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           <p>Pencilled in margin vertically left and right, as well as above and below (approx. 1 inch/2.5 cm) </p>
+                        </support><extent>
+                           <measure unit="folio" quantity="179">179 numbered folios (containing text), 22 guard folios </measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote script="latin tamil" scriptRef="#tamilPulliRegular #tamilPreReform" medium="black red pencil"><desc>Marking open consonants with a vertical line above and closed consonants with a puḷḷi, specifically ர and ல. However, it is not consistent throughtout the text. </desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Restored pulils and long and short e/o</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52513899g/manifest.json"/></facsimile>
+<text corresp="#B1e" xml:lang="ta"><body>
+<lg xml:id="TK1">
+<l><pb n="8r" facs="21"/>akara mutala veḻuttellā māti</l>
+<l>pakavaṉ mutaṟṟe yulaku</l>
+</lg>
+ <lg xml:id="TK2">
+  <l><pb n="8r" facs="21"/>kaṟṟatiṉā lāya payaṉeṉkol</l>
+  <l>vālaṟiva naṟṟa ṭoḻā reṉīṉ</l>
+</lg>
+ <lg xml:id="TK2">
+ <l><pb n="8v" facs="22"/> malarmicai yekīṉāṉ māṇaṭi cērntār</l>
+ <l>nilamīcai nīṭuvāḻ vār</l>
+</lg> 
+ <lg xml:id="TK2">
+ <l><pb n="8v" facs="22"/>vēṇṭutal vēṇṭāmai yilāṉaṭi</l>
+ <l>cērntārk kiyāṇṭu miṭumapai yīla</l>
+</lg> 
+ <lg xml:id="TK2">
+ <l><pb n="8v" facs="22"/>iṟuḷcē rīṟuvīṉaiyuñ cērā viṟaivaṉ,</l>
+ <l>poruḷcēr pukaḻpurintār māṭṭu</l>
+</lg> 
+</body></text></TEI>

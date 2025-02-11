@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Tirukkuṟaḷ</title>
+            
+         <editor><persName>Gopalakrishnan R.</persName><orgName>The English and Foreign Languages University</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Tamilex</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Tamil University, Thanjavur</orgName>
+                  </repository>
+                  <idno type="shelfmark">EAP1217/1/2677</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>A palm-leaf manuscript of the Tirukkuṟaḷ.</summary>
+                  
+               <msItem xml:id="E3m" defective="false" class="#kilkkanakku"><title xml:lang="ta"> Tirukkuṟaḷ  </title><author xml:lang="ta">Vaḷḷuvar</author><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf palmyra">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="143"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote script="tamil" scriptRef="#tamilPulliNone #tamilRa #tamilPreReform" medium="black incised"><desc>The scribe uses a modern ra in some instances, where there is need for diambiguation, but uses the one kāl character when there isn't ambiguity.</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Restored puḷḷi and long vowels.  </p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://eap.bl.uk/archive-file/EAP1217-1-2677/manifest"/></facsimile>
+<text corresp="#E3m" xml:lang="ta"><body>
+  <lg xml:id="TK1">
+    <l><pb n="1r" facs="6"/>akara mutala veḻuttellā māti</l>
+    <l>pakavaṉ mutaṟṟē yulaku</l>
+  </lg>
+  <lg xml:id="TK2">
+    <l><pb n="1r" facs="6"/>kaṟṟataṉā lāya payaṉeṉkol vālaṟivaṉ</l>
+    <l>naṟṟā ṭoḻāa reṉiṉ</l>
+  </lg>
+  <lg xml:id="TK3">
+    <l><pb n="1r" facs="6"/>malarmicai yēkināṉ māṉaṭi cērntār</l>
+    <l>nilamicai nīṭuvāḻ vār</l>
+  </lg>
+  <lg xml:id="TK4">
+    <l><pb n="1r" facs="6"/>vēṇṭutal vēṇṭāmai yilānaṭi cērntāṟki</l>
+    <l>yāṇṭu miṭumpai yila</l>
+  </lg>
+  <lg xml:id="TK5">
+    <l><pb n="1v" facs="7"/>iruḷcē riruviṉaiyuñ cērā viṟaivaṉ</l>
+    <l>poruḷcēr pukaḻpurintār māṭṭu</l>
+  </lg>
+</body></text></TEI>

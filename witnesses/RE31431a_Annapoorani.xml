@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tirukkuṟalum Nalvarnamalaium</title>
+            
+         <editor><persName>Anna Poorani V</persName><orgName>Pondicherry University, Puducherry.</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Tamilex</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>French Institute of Pondicherry, Puducherry.</orgName>
+                  </repository>
+                  <idno type="shelfmark">RE31431a</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#MTM">
+                  <summary>A Palm Leaf Manuscript of Tirukural and Nalvarnamanimalai.</summary>
+                  
+               <msItem synch="#I2e" xml:id="I2e_Annapoorani" defective="false"><title>Tirukuralum Nalvarnanmanimalium</title></msItem><msItem defective="false"><title>Tirukural</title></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="inscription">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="25"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><collation><desc xml:id="I2e"/></collation></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote synch="#I2e" script="tamil" scriptRef="#tamilPreReform" medium="incised"/></handDesc><typeDesc><typeNote synch="#I2e" script="tamil" scriptRef="#tamilPreReform" medium="black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Restored pullis</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/3/re-31431/manifest.json"/></facsimile>
+<text synch="#I2e" corresp="#I2e_Annapoorani"><body xml:lang="ta-Taml">
+<lg xml:id="TK1">
+<l><pb n="1r" facs="4"/>அக‍ர முத‍ல‍ வெழுத்தெல்லாமாதி</l>
+<l>ப‍க‍வ‍ன் முத‍ற்றேயுல‍கு</l>
+</lg>
+  <lg xml:id="TK2">
+    <l><lb n="2"/>க‍ற்ற‍த‍னாலாய்  ப‍ய‍னென்கொல்வா ல‍றிவ‍ன் ந‍ற்றாடொழ‍அ ரெனின்</l>
+    </lg>
+   </body></text></TEI>

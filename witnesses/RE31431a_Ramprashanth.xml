@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>திருக்குறளும் நாள்வர் நான்மணி மாலையும்</title>
+            
+         <editor><persName>V. Ramprashanth</persName><orgName>Madurai Kamaraj University</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                  </repository>
+                  <idno type="shelfmark">RE31431a</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#MTM">
+                  <summary>A palm leaf manuscript of Tirukkural. Sufficiently well preserved.</summary>
+                  
+               <msItem xml:id="I2e_Ramprashanth" defective="false" class="#kilkkanakku"><title> திருக்குறள்</title></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf palmyra">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="18"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" medium="incised"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>we have used post-reform ligatures.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/3/re-31431/manifest.json"/></facsimile>
+<text corresp="#I2e_Ramprashanth"><body xml:lang="ta-Taml">
+<lg xml:id="TK1">
+<l><pb n="1r" facs="2"/>அகர முதல வெழுத்தெல்லா மாதி</l>
+<l>பகவன் முதற்றே யுலகு</l>
+</lg>
+<lg xml:id="TK2">
+<l><lb n="2"/>கற்றதனாலாய பயனென் கொல் வாலறிவன்</l> 
+  <l>நற்றா டொழா அரெனின்</l>
+</lg>
+  <lg>
+    <l><lb n="3"/>மலர்மிசை யேகினான்  மாணடி சேர்ந்தார்</l>
+    <l>நிலமிசை நீடு வாழ்வார்</l>
+     </lg>
+</body>
+</text></TEI>
