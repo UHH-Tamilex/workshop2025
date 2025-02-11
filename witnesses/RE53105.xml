@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Tirukkuṟaḷ  </title>
+            
+         <editor><persName>Vazeeha Shamrin</persName><orgName>Institut français de Pondichéry</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>Tamilex</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Institut français de Pondichéry</orgName>
+                  </repository>
+                  <idno type="shelfmark">RE53105</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>A palm-leaf manuscript of the Tirukkuṟaḷ  </summary>
+                  
+               <msItem xml:id="I3m" defective="false" class="#kilkkanakku"><title xml:lang="ta"> Tirukkuṟaḷ  </title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf palmyra">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="133"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote script="tamil" scriptRef="#tamilPulliNone #tamilPreReform" medium="black incised"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Restore puḷḷi and long vowels (uyir)</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/3/re-53105/manifest.json"/></facsimile>
+<text corresp="#I3m" xml:lang="ta"><body xml:lang="ta-Taml">
+<lg xml:id="TK1">
+<l><pb n="1r" facs="4"/>அகர முதல வெழுத்தெல்லா மாதி</l> 
+<l>பகவான் முதற்ரே யுலகு</l> 
+</lg>
+  <lg xml:id="TK2">
+    <l><lb n="2"/>கற்றதன லாய் பயனென்சொல்  வாலறிவா</l>
+      <l>னர்ர டொழா ரெனின்</l>
+  </lg>
+  <lg xml:id="TK3">
+    <l><lb n="3"/>மலர்மிசை யேகினுன மாணடி சேர்ந்தார்</l>
+    <l>நிலமிசை நீடுவாழ் வா... </l>
+  </lg>
+  <lg xml:id="TK4">
+    <l><lb n="4"/>வேண்டுதல் வேண்டாமை யிலானடி சேர்ந்தார்க்</l>
+    <l>கியாண்டு மிடும்...... </l>
+    </lg>
+  <lg xml:id="TK5">
+    <l><lb n="5"/>இருள்சே ரிருவினையுஞ் சேரா விரைவான</l> 
+    <l>பொருள்சேர் புகழ் புரிந்தார் மாட்டு</l>
+    </lg>
+  </body></text></TEI>

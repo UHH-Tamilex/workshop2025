@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>திருக்குறளும் நாள்வர் நான்மணி மாலையும்</title>
+            <title>Tirukkuṟal </title>
             
-         <editor><persName>V. Ramprashanth</persName><orgName>Madurai Kamaraj University</orgName></editor></titleStmt>
+         <editor><persName>Athira &amp; Kasthuri</persName><orgName>IFP</orgName></editor></titleStmt>
          <publicationStmt>
             <publisher>TST Project</publisher>
             <date>2025</date>
@@ -15,15 +13,15 @@
             <msDesc>
                <msIdentifier>
                   <repository>
-                     <orgName>Bibliothèque nationale de France. Département des Manuscrits</orgName>
+                     <orgName>Institut français de Pondichéry</orgName>
                   </repository>
-                  <idno type="shelfmark">RE31431a</idno>
+                  <idno type="shelfmark">RE25357</idno>
                   <idno type="alternate"/>
                </msIdentifier>
-               <msContents class="#MTM">
-                  <summary>A palm leaf manuscript of Tirukkural. Sufficiently well preserved.</summary>
+               <msContents class="#STM">
+                  <summary>A Palm Leaf Manuscript</summary>
                   
-               <msItem xml:id="I2e_Ramprashanth" defective="false" class="#kilkkanakku"><title> திருக்குறள்</title></msItem></msContents>
+               <msItem xml:id="I1e" defective="false" class="#kilkkanakku"><title xml:lang="ta">Tirukkuṟaḷ</title><textLang mainLang="tam"/></msItem></msContents>
                <physDesc>
                   
                   
@@ -40,7 +38,7 @@
                      <support>
                            
                         </support><extent>
-                           <measure unit="folio" quantity="18"/>
+                           <measure unit="folio" quantity="135"/>
                            <dimensions type="object" unit="mm">
                               
                               
@@ -57,7 +55,7 @@
                      <layoutDesc>
                         
                      </layoutDesc>
-                  </objectDesc><handDesc><handNote scope="sole" script="tamil" medium="incised"/></handDesc><additions>
+                  </objectDesc><handDesc><handNote scope="sole" script="tamil" scriptRef="#tamilPulliRegular #tamilRa #tamilPreReform #tamilOE" medium="incised"/></handDesc><additions>
                   </additions><bindingDesc>
                      <binding>
                         
@@ -82,31 +80,31 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc><p>we have used post-reform ligatures.</p></encodingDesc>
+      <encodingDesc><p>restored pulli and long vowels</p></encodingDesc>
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archive.org/iiif/3/re-31431/manifest.json"/></facsimile>
-<text corresp="#I2e_Ramprashanth"><body xml:lang="ta-Taml">
+   <graphic url="https://iiif.archive.org/iiif/3/re-25357/manifest.json"/></facsimile>
+<text corresp="#I1e" xml:lang="ta"><body>
 <lg xml:id="TK1">
-<l><pb n="1r" facs="2"/>அகர முதல வெழுத்தெல்லா மாதி</l>
-<l>பகவன் முதற்றே யுலகு</l>
+<l><pb n="1r" facs="7"/>akara mutalav veḻutallā māti </l>
+<l>pakavaṉ mutaṟṟē yulaku</l>
 </lg>
-<lg xml:id="TK2">
-<l><lb n="2"/>கற்றதனாலாய பயனென் கொல் வாலறிவன்</l> 
-  <l>நற்றா டொழா அரெனின்</l>
+  <lg xml:id="TK2">
+   <l><lb n="2"/>kaṟṟataṉālāya payaṉeṉkol </l>
+     <l>vālarivaṉ ṉaṟṟāṭoḻāa eṉiṉ</l>
 </lg>
-  <lg>
-    <l><lb n="3"/>மலர்மிசை யேகினான்  மாணடி சேர்ந்தார்</l>
-    <l>நிலமிசை நீடு வாழ்வார்</l>
-     </lg>
-  <lg>
-    <l><lb n="4"/>வேண்டுதல் வேண்டாமை யிலானடி சேர்ந்தார்க்கி</l>
-    <l>யாண்டு மிடும்பை யில</l> 
-  </lg>
-  <lg>
-    <l><lb n="5"/>இருள்சேரி ருவினையுஞ் சேரா விறைவன்</l>
-    <l> பொருள்சேர் புகழ்புரிந்தார் மாட்டு</l>
-  </lg>
+  <lg xml:id="TK3">
+   <l><lb n="3"/>malarmicai yēkiṉāṉ māṇaṭi cērntār </l>
+     <l>nilamicai nīṭuvāḻ vār</l>
+</lg>
+  <lg xml:id="TK4">
+   <l><lb n="4"/>vēṇṭutal vēṇṭāmai yilāṉaṭi cērntārk </l>
+     <l> kiyāṇṭu miṭumpai yila</l>
+</lg>
+  <lg xml:id="TK5">
+   <l><lb n="5"/> iruḷcēri ruviṉaiyuñ cērā viṟaivaṉ  </l>
+     <l>  poruḷcēr pukaḻ purintār māṭṭu</l>
+</lg>
 </body>
 </text></TEI>
