@@ -1,6 +1,6 @@
 <?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
 <?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,7 @@
           </msContents>    
         </msDesc>
         <listWit>
-        <witness xml:id="Ed" source="witnesses/TK1.xml">
+        <witness xml:id="Ed" source="TK1.xml">
             <abbr type="siglum">Ed</abbr>
             <expan>
               <title xml:lang="ta">TK "edition"</title>
