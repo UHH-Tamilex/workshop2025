@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -112,4 +114,162 @@ evaṉeṉṉum viṉāppeyar eṉṉeṉṟāy īṇṭiṉmai kuṟittu niṉ�
         </p>
     </body>
   </text>
-</TEI>
+<standOff type="apparatus" corresp="#TK2" source="alignments/TK2.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,9">
+    <lem wit="#E7c #E3m #I1e #E1e_A #E1e_P #E5m #E6m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">kaṟṟataṉā</lem>
+    <rdg wit="#I3m"><lb n="2"/>kaṟṟataṉa</rdg>
+    <rdg wit="#E4m"/>
+    <rdg wit="#I6m"><lb n="2"/>kaṭaṟṟataṇā</rdg>
+    <rdg wit="#B1e"><pb n="8r" facs="21" type="folio"/>kaṟṟatāṉā</rdg>
+  </app>
+  <app corresp="9,13">
+    <lem wit="#E7c #E3m #B1e #I1e #I3m #E1e_A #E1e_P #E5m #E6m #B2e #B3e #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">lāya</lem>
+    <rdg wit="#B4m">lā<sic>yi</sic></rdg>
+    <rdg wit="#E4m"/>
+    <rdg wit="#I6m">laya</rdg>
+  </app>
+  <app corresp="13,24">
+    <lem wit="#E7c #E3m #B1e #I1e #E1e_A #E1e_P #E5m #E6m #B2e #B3e #B4m #I5mpc #I2e_A #I2e_K #I2e_R #Rm">payaṉeṉkol,</lem>
+    <rdg wit="#I3m">payaṉeṉcol</rdg>
+    <rdg wit="#I4m #Sm">p payaṉeṉkol</rdg>
+    <rdg wit="#E4m"><gap reason="lost" quantity="8" unit="character"/>ṉkol</rdg>
+    <rdg wit="#I6m">paya neṇkol</rdg>
+    <rdg wit="#I5mac">payaṉaṉkol</rdg>
+  </app>
+  <app corresp="24,32">
+    <lem wit="#E7c #E3m #B1e #I6m #E1e_A #E1e_P #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #Rm">vālaṟiva</lem>
+    <rdg wit="#I3m">vālaṟivā</rdg>
+    <rdg wit="#I4m">vāṉṟivā</rdg>
+    <rdg wit="#Sm">vā<sic>ṉ</sic>ṟiva</rdg>
+    <rdg wit="#I1e">vālariva</rdg>
+  </app>
+  <app corresp="32,37">
+    <lem wit="#E5m #E6m #E4m #B3e #B4m #I5m #I2e_K #Rm #Sm">ṉaṟṟā</lem>
+    <rdg wit="#E1e_A #E1e_P">ṉ naṟṟāl</rdg>
+    <rdg wit="#E3m #I2e_A #I2e_R">ṉ naṟṟā</rdg>
+    <rdg wit="#I3m">ṉarra</rdg>
+    <rdg wit="#I4m">ṉaṟṟāḷ</rdg>
+    <rdg wit="#I6m">ṉ naṭṟā</rdg>
+    <rdg wit="#B1e">naṟṟa</rdg>
+    <rdg wit="#E7c">naṟṟā</rdg>
+    <rdg wit="#B2e">ṉaṟṟa</rdg>
+    <rdg wit="#I1e">ṉ ṉaṟṟā</rdg>
+  </app>
+  <app corresp="37,42">
+    <lem wit="#E7c #E3m #I1e #E5mpc #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #Rm #Sm">ṭoḻāa</lem>
+    <rdg wit="#E1e_A #E1e_P">toḻāa</rdg>
+    <rdg wit="#I2e_R">ṭoḻā a</rdg>
+    <rdg wit="#I2e_A">ṭoḻaa</rdg>
+    <rdg wit="#B1e #I3m #E5mac">ṭoḻā</rdg>
+    <rdg wit="#I4m">to<unclear>ḷā</unclear></rdg>
+    <rdg wit="#I6m">ṭe ḻāa</rdg>
+  </app>
+  <app corresp="42,47">
+    <lem wit="#E7c #E3m #I6m #I3m #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">reṉiṉ</lem>
+    <rdg wit="#E1e_A #E1e_P">r enin</rdg>
+    <rdg wit="#B1e">reṉīṉ</rdg>
+    <rdg wit="#I1e">eṉiṉ</rdg>
+  </app>
+</listApp></standOff><standOff corresp="#TK2" type="wordsplit">
+<interp type="alignment" select="0">20MG13ML5ML9M,24MG25M</interp>
+<entry>
+<form>kaṟṟataṉāl</form>
+<def>learned-that</def>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">instrumental</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āya</form>
+<def>become</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>payaṉ</form>
+<def>gain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉ-kol</form>
+<def>what</def>
+<form type="simple">eṉ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
+</entry>
+<entry>
+<form>vāl</form>
+<def>purity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṟivaṉ</form>
+<def>knowledge-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">ṉaṟ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāḷ</form>
+<def>foot</def>
+<form type="sandhi">ṟāṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻāar</form>
+<def>they don't worship</def>
+<form type="sandhi">ṭoḻāar</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉiṉ</form>
+<def>say if</def>
+<gramGrp>
+  <gram type="role">conditional</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>

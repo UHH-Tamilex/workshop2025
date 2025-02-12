@@ -186,4 +186,53 @@
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
-</standOff></TEI>
+</standOff><standOff type="apparatus" corresp="#TK1" source="alignments/TK1.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,5">
+    <lem wit="#E7c #E3m #B1e #I6m #I1e #I3m #E1e_A #E1e_P #E5m #E6m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">akara</lem>
+    <rdg wit="#E4m"/>
+  </app>
+  <app corresp="5,11">
+    <lem wit="#E7c #E3m #B1e #I6m #I3m #E1e_A #E1e_P #E5m #E6m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #Rm #Sm">mutala</lem>
+    <rdg wit="#E4m"/>
+    <rdg wit="#I1e #I4m">mutalav</rdg>
+  </app>
+  <app corresp="11,21">
+    <lem wit="#E7c #E3m #B1e #I3m #E1e_A #E1e_P #E6m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #Rm #Sm">veḻuttellā</lem>
+    <rdg wit="#E5m"><unclear>veḻu</unclear>ttelā</rdg>
+    <rdg wit="#E4m"><pb n="1r" facs="4" type="folio"/><gap reason="lost" quantity="9" unit="character"/>tallā</rdg>
+    <rdg wit="#I1e">veḻutallā</rdg>
+    <rdg wit="#I4m">veḻuttellām</rdg>
+    <rdg wit="#I6m">veḻutellām</rdg>
+  </app>
+  <app corresp="21,25">
+    <lem wit="#E7c #E3m #B1e #I1e #I3m #E1e_A #E1e_P #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">māti</lem>
+    <rdg wit="#I6m">māāti</rdg>
+  </app>
+  <app corresp="25,32">
+    <lem wit="#E7c #E3m #B1e #I6m #I1e #E1e_A #E1e_P #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">pakavaṉ</lem>
+    <rdg wit="#I3m">pakavāṉ</rdg>
+  </app>
+  <app corresp="32,39">
+    <lem wit="#E7c #E3m #B1e #I6m #I1e #E1e_A #E1e_P #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">mutaṟṟē</lem>
+    <rdg wit="#I3m">mutaṟrē</rdg>
+  </app>
+  <app corresp="39,45">
+    <lem wit="#E7c #E3m #B1e #I6m #I1e #I3m #E1e_A #E1e_P #E5m #E6m #E4m #B2e #B3e #I5m #I2e_A #I2e_K #I2e_R #I4m #Rm #Sm">yulaku</lem>
+    <rdg wit="#B4m"><sic>yi</sic>laku <space/> <g ref="#pcl"/> 1</rdg>
+  </app>
+</listApp></standOff></TEI>

@@ -14,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -94,7 +94,7 @@
   </teiHeader>
   <text xml:lang="ta" type="edition">
     <body>
-        <div rend="parllel">
+        <div rend="parallel">
             <lg xml:id="TK4">
 <l>vēṇṭutal vēṇṭāmai yilāṉaṭi cērntārk</l>
 <l>kiyāṇṭu miṭumpai yila</l>            
@@ -105,4 +105,66 @@
         </div>
     </body>
   </text>
-</TEI>
+<standOff type="apparatus" corresp="#TK4" source="alignments/TK4.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,8">
+    <lem wit="#E7c #E3m #I1e #I3m #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I4m #Sm">vēṇṭutal</lem>
+    <rdg wit="#I6m"><lb n="4"/>veṇtuḷal</rdg>
+    <rdg wit="#Rm">vēṇtutal</rdg>
+    <rdg wit="#I2e_K"><lb n="4"/>vēṇ</rdg>
+  </app>
+  <app corresp="8,16">
+    <lem wit="#E7c #E3m #I6m #I1e #I3m #E6m #E4m #B2e #B3e #I5mpc #I4m #Rm #Sm">vēṇṭāmai</lem>
+    <rdg wit="#E5m">vē<unclear>ṇ</unclear><gap reason="lost" quantity="2" unit="character"/>mai</rdg>
+    <rdgGrp select="#B4m #I5mac">
+      <rdg type="main">vēṇṭā<sic>ma</sic></rdg>
+      <rdg type="minor" wit="#I5mac">vēṇṭāma</rdg>
+    </rdgGrp>
+    <rdg wit="#I2e_K">ṭāmai</rdg>
+  </app>
+  <app corresp="16,24">
+    <lem wit="#E7c #I6m #I1e #I3m #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #Rm">yilāṉaṭi</lem>
+    <rdg wit="#E3m">yilānaṭi</rdg>
+    <rdg wit="#I4m">
+      <sic>yillāṇṭi</sic>
+    </rdg>
+    <rdg wit="#Sm">yilāṉ</rdg>
+  </app>
+  <app corresp="24,32">
+    <lem wit="#E7c #I6m #I1e #I3m #B2e #B3e #B4m #I5m #I2e_K #I4m #Rm #Sm">cērntārk</lem>
+    <rdg wit="#E3m">cērntāṟ</rdg>
+    <rdg wit="#E4m">cērnta<sic>ri</sic>k</rdg>
+    <rdgGrp select="#E5m #E6m">
+      <rdg type="main"><unclear>cēr</unclear>ntark</rdg>
+      <rdg type="minor" wit="#E6m">cērntark</rdg>
+    </rdgGrp>
+  </app>
+  <app corresp="32,39">
+    <lem wit="#E7c #E3m #I1e #I3m #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #I4m #Rm #Sm">kiyāṇṭu</lem>
+    <rdg wit="#I6m">ku nayāṉatu</rdg>
+  </app>
+  <app corresp="39,47">
+    <lem wit="#E7c #E3m #I1e #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #Rm #Sm">miṭumpai</lem>
+    <rdg wit="#I4m">mīṭumpai</rdg>
+    <rdg wit="#I6m">mīṇṭum pa</rdg>
+    <rdg wit="#I3m">miṭum......</rdg>
+  </app>
+  <app corresp="47,51">
+    <lem wit="#E7c #E3m #I6m #I1e #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #I4m #Rm #Sm">yila</lem>
+    <rdg wit="#I3m"/>
+  </app>
+</listApp></standOff></TEI>

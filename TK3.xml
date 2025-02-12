@@ -1,4 +1,6 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><?xml-model href="tei_all.dtd" type="application/xml-dtd"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<?xml-model href="tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Ed">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -102,4 +104,47 @@
         </div>
     </body>
   </text>
-</TEI>
+<standOff type="apparatus" corresp="#TK3" source="alignments/TK3.xml"><interp type="normalization">
+  <desc type="tagfilters">
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">pc</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">abbr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">corr</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">ex</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">head</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">label</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">note</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">num</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">locus</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">metamark</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">supplied</tag>
+    <tag xmlns="http://www.tei-c.org/ns/1.0" subtype="ignore">surplus</tag>
+  </desc>
+</interp><listApp>
+  <app corresp="0,10">
+    <lem wit="#E7c #E3m #I6m #I1e #I3m #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I4m #Rm #Sm">malarmicai</lem>
+    <rdg wit="#I2e_K"><lb n="3"/>ma<gap reason="lost" quantity="1" unit="character"/>larmicai</rdg>
+  </app>
+  <app corresp="10,17">
+    <lem wit="#E7c #I6m #I1e #B2e #B3e #B4m #I5m #I4m #Rm #Sm">yēkiṉāṉ</lem>
+    <rdgGrp select="#E5m #E6m #E4m">
+      <rdg type="main"><unclear>yēki</unclear><sic>ṉa</sic>ṉ</rdg>
+      <rdg type="minor" wit="#E5m">yēki<unclear>ṉa</unclear>ṉ</rdg>
+      <rdg type="minor" wit="#E6m">yēkiṉaṉ</rdg>
+    </rdgGrp>
+    <rdg wit="#I2e_K">yēkiṉā<gap reason="lost" quantity="1" unit="character"/>ṉ</rdg>
+    <rdg wit="#I3m">yēkiṉuṉa</rdg>
+    <rdg wit="#E3m">yēkināṉ</rdg>
+  </app>
+  <app corresp="17,23">
+    <lem wit="#E7c #I6m #I1e #I3m #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #I4m #Rm">māṇaṭi</lem>
+    <rdg wit="#E3m #Sm">māṉaṭi</rdg>
+  </app>
+  <app corresp="39,46">
+    <lem wit="#E7c #E3m #I6m #I1e #I3m #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #I4m #Sm">nīṭuvāḻ</lem>
+    <rdg wit="#Rm">niṭuvāḻ</rdg>
+  </app>
+  <app corresp="46,49">
+    <lem wit="#E7c #E3m #I6m #I1e #E5m #E6m #E4m #B2e #B3e #B4m #I5m #I2e_K #I4m #Rm #Sm">vār</lem>
+    <rdg wit="#I3m">vā...</rdg>
+  </app>
+</listApp></standOff></TEI>

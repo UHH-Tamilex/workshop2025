@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -92,7 +91,7 @@
 <l>pakavaṉ mutaṟṟe yulaku</l>
 </lg>
  <lg xml:id="TK2">
-  <l><pb n="8r" facs="21"/>kaṟṟatiṉā lāya payaṉeṉkol</l>
+  <l><pb n="8r" facs="21"/>kaṟṟatāṉā lāya payaṉeṉkol</l>
   <l>vālaṟiva naṟṟa ṭoḻā reṉīṉ</l>
 </lg>
  <lg xml:id="TK2">
